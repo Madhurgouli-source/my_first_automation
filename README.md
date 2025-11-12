@@ -1,2 +1,2 @@
 # my_first_automation
-trying automation
+implementing AI news reader
